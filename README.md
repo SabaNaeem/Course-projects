@@ -1,2 +1,2 @@
-# Web-Engineering
-All the practice codes I have done in Web course
+# Course projects
+All the course projects I have done so far
